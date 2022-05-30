@@ -1,0 +1,77 @@
+body {
+	font-family: Bahnschrift SemiBold;
+	font-size: 18px;
+	background-image: url("hatter.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.header {
+	text-align: center;
+	font-size: 30px;
+	padding: 25px;
+	color: black;
+	background: #d9d9d9;
+	background-size: cover;
+	margin-bottom: 20px;
+	border-radius: 10px;
+}
+
+#content {
+	background: #d9d9d9;
+	max-width: 1000px;
+	margin: auto;
+	border-radius: 10px;
+	padding: 25px;
+}
+
+.lovagitorna1 {
+	float: right;
+	padding-left: 25px;
+}
+
+.lovagitorna1 img{
+	width: 320px;
+	height: 225px;
+	border-radius: 5px;
+}
+
+hr {
+	margin-bottom: 25px;
+	margin-top:40px;
+}
+
+.lovagitorna2 {
+	float: left;
+	padding-right: 25px;
+}
+
+.lovagitorna2 img{
+	width: 242px;
+	height: 283px;
+	border-radius: 5px;
+	padding-bottom: 25px;
+}
+
+.lovagitorna3 {
+	float: right;
+	padding-left: 25px;
+}
+
+.lovagitorna3 img{
+	width: 264px;
+	height: 313px;
+	border-radius: 5px;
+}
+
+.lovagitorna4 {
+	float: left;
+	padding-right: 25px;
+}
+.lovagitorna4 img{
+	width: 322px;
+	height: 350px;
+	border-radius: 5px;
+	padding-bottom: 25px;
+}
